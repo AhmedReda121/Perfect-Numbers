@@ -1,0 +1,14 @@
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.exe
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.deps.json
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.runtimeconfig.json
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.runtimeconfig.dev.json
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.dll
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\bin\Debug\netcoreapp3.1\perfect numbers.pdb
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.csproj.AssemblyReference.cache
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.AssemblyInfoInputs.cache
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.AssemblyInfo.cs
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.dll
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.pdb
+C:\Users\Mr Reda Kamal\source\repos\perfect numbers\perfect numbers\obj\Debug\netcoreapp3.1\perfect numbers.genruntimeconfig.cache
